@@ -1,4 +1,6 @@
 # deputil
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/deputil.svg)](https://greenkeeper.io/)
 updating dependencies - local or global - interactive or batch
 
 ----------
