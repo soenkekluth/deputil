@@ -1,0 +1,9 @@
+{
+  "extends": [
+      "sk-node"
+  ],
+  "rules": {
+    "no-console":"off",
+    "node/shebang": "off"
+  }
+}
